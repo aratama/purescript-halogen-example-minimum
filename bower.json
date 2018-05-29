@@ -1,0 +1,13 @@
+{
+  "name": "purescript-halogen-example-minimum",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-halogen": "v4.0.0-rc.1"
+  },
+  "devDependencies": {}
+}
